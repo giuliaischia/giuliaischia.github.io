@@ -37,4 +37,4 @@ Before moving to Germany, I was at the University of Trento (in Italy), where I 
 
 I am always curious to explore new ideas and places, and I have been visiting researcher in the US (Boston University and Cornell University), Japan (Tohoku University), and China (Northeast Agricultural University).
 
-My research is supported by an <a href="https://www.humboldt-foundation.de/vernetzen/recherche-im-humboldt-netzwerk/einzelansicht/1238258/dr-giulia-ischia" target="_blank">Alexander von Humboldt Fellowship</a>, and in the past I was awarded a Fulbright Fellowship.
+My research is supported by an <a href="https://www.humboldt-foundation.de/vernetzen/recherche-im-humboldt-netzwerk/einzelansicht/1238258/dr-giulia-ischia" target="_blank">Alexander von Humboldt Fellowship</a>, and in the past I received a Fulbright Fellowship.
