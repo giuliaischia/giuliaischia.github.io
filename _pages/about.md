@@ -6,7 +6,7 @@ subtitle: <a href='#'>Research chronicles</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Giulia-profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Max Planck Institute Institute of Colloids and Interfaces</p>
