@@ -29,6 +29,6 @@ latest_posts:
 
 Hello!
 
-I am a researcher at the Max Planck Institute of Colloids and Interfaces, working at the interface between green chemistry, chemical processes, and sustainable materials.
+I am a researcher at the <a href="https://www.mpikg.mpg.de/person/132372/6826885" target="_blank">Max Planck Institute of Colloids and Interfaces</a>, working at the interface between green chemistry, chemical processes, and sustainable materials.
 
 I am especially passionate about valorizing biomass into sustainable bio-based products, with a particular focus on hydrothermal conversion and carbon-based functional materials.
