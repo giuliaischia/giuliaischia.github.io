@@ -24,10 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello all!
+Hello!
 
-I am a researcher working at the interface between green chemistry, chemical processes, and sustainable carbon materials.
+I am a researcher at the Max Planck Institute of Colloids and Interfaces, working at the interface between green chemistry, chemical processes, and sustainable materials.
 
-I am particularly interested in biomass valorization and bio-based products.
-
-I am based at Max Planck Institute of Colloids and Interfaces, and I am supported by a Alexander von Humboldt fellowship.
+I am especially passionate about valorizing biomass into sustainable bio-based products, with a particular focus on hydrothermal conversion and carbon-based functional materials.
