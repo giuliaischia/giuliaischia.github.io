@@ -33,6 +33,8 @@ I am a researcher at the <a href="https://www.mpikg.mpg.de/person/132372/6826885
 
 I am especially passionate about valorizing biomass into sustainable bio-based products, with a particular interest on hydrothermal conversion and carbon-based functional materials.
 
-Before moving to Germany, I was at the University of Trento in Italy, where I obtained my PhD in 2022.
+Before moving to Germany, I was at the University of Trento (in Italy), where I obtained my PhD in 2022.
 
 I am always curious to explore new ideas and places, and I have been visiting researcher in the US (Boston University and Cornell University), Japan (Tohoku University), and China (Northeast Agricultural University).
+
+My research is supported by an Alexander von Humboldt Fellowship, and in the past I was awarded a Fulbright Fellowship.
