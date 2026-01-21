@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research chronicles</a>. 
+subtitle: Research chronicles 
 
 profile:
   align: right
