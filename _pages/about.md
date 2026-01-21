@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research chronicles.
+subtitle: <a href="https://scholar.google.com/citations?user=vT6tvNEAAAAJ&hl=it">Research chronicles</a>.
 
 profile:
   align: right
