@@ -1,8 +1,8 @@
----
+ ---
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Research chronicles</a>. 
+subtitle: Research chronicles</a>. 
 
 profile:
   align: right
