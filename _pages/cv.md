@@ -2,10 +2,10 @@
 layout: cv
 permalink: /cv/
 title: cv
-nav: true
+nav: false
 nav_order: 5
 cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
-description: Check my CV here.
+description: Check here my CV.
 toc: 
   sidebar: left
 ---
