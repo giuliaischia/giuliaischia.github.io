@@ -7,7 +7,7 @@ subtitle: <a href="https://scholar.google.com/citations?user=vT6tvNEAAAAJ&hl=it"
 profile:
   align: right
   image: Giulia-profile.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p></p>
     <p></p>
