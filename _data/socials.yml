@@ -6,11 +6,7 @@ email: giulia.ischia@mpikg.mpg.de # your email address
 # rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: vT6tvNEAAAAJ # your Google Scholar ID
 orcid_id: 0000-0001-5878-5603
-linkedin_username: giulia-ischia
+#linkedin_username: giulia-ischia
 cv_pdf: /assets/pdf/CV.pdf # path to your CV PDF file
 
 custom_social:
-  researchgate:
-    name: ResearchGate
-    url: https://www.researchgate.net/profile/Giulia-Ischia
-    icon: ai ai-researchgate
