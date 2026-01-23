@@ -19,7 +19,7 @@ Research Employment
     
 Education
 ======  
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Civil, Environmental and Mechanical Engineering (Major: Materials, Chemistry and Energy)
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
