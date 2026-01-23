@@ -14,6 +14,5 @@ Office 2.112, Am Mühlenberg 1, 14476 Potsdam, Germany
 **Online**:
 [Google Scholar](https://scholar.google.com/citations?user=TUO_ID) ·
 [ORCID](https://orcid.org/0000-0001-5878-5603) ·
-[LinkedIn](https://www.linkedin.com/in/giulia-ischia) ·
 [ResearchGate](https://www.researchgate.net/profile/Giulia-Ischia?ev=hdr_xprf) ·
-[Website](https://giuliaischia.github.io)
+[LinkedIn](https://www.linkedin.com/in/giulia-ischia) 
