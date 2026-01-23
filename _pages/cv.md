@@ -20,8 +20,8 @@ Research Employment
 Education
 ======  
 * Ph.D in Civil, Environmental and Mechanical Engineering (Major: Materials, Chemistry and Energy)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Energy Engineering, 2018
+* B.S. in Energy Engineering, 2015
 
 Work experience
 ======
