@@ -1,16 +1,16 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: /assets/pdf/CV.pdf # path to your CV PDF file
 email: giulia.ischia@mpikg.mpg.de # your email address
 # inspirehep_id: 1010907 # Inspire HEP author ID
 # rss_icon: true # comment this line to hide the RSS icon
-
 scholar_userid: vT6tvNEAAAAJ # your Google Scholar ID
-#linkedin_username: giulia-ischia
 orcid_id: 0000-0001-5878-5603
-#custom_social:
- # researchgate:
-  #  name: ResearchGate
-   # url: https://www.researchgate.net/profile/Giulia-Ischia
-    #icon: ai ai-researchgate
+linkedin_username: giulia-ischia
+cv_pdf: /assets/pdf/CV.pdf # path to your CV PDF file
+
+custom_social:
+  researchgate:
+    name: ResearchGate
+    url: https://www.researchgate.net/profile/Giulia-Ischia
+    icon: ai ai-researchgate
