@@ -30,4 +30,14 @@ Visiting research periods
 * 2025: Northeast Agricultural University, China
 * 2023: Tohoku University, Japan
 * 2021: Cornell University, USA
-* 2017: Boston University, USA 
+* 2017: Boston University, USA
+
+Awards and fellowships
+======
+* 2024: [Alexander von Humboldt Foundation Research Fellowship](https://www.humboldt-foundation.de/en/connect/explore-the-humboldt-network/singleview/1238258/dr-giulia-ischia).
+* 2023: ACS Sustainability Star, from American Chemical Society (ACS)
+* 2023: International Researcher Visiting Fellowship, from Tohoku University 
+* 2021: Best Young Researcher Award, from WasteEng2020 conference
+* 2021: Fulbright Scholarship, USA-Italy Fulbright commission
+* 2020: [ACS Joseph Breen Memorial Fellowship](https://www.acs.org/funding/scholarships-fellowships/joseph-breen-memorial-fellowship/past-recipients.html), from American Chemical Society (ACS)
+* 2020: The Journey fellowship, from EIT-KIC Climate
