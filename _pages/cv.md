@@ -1,10 +1,9 @@
 ---
-layout: archive
+layout: page
 permalink: /cv/
-title: cv
+title: CV
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/CV.pdf # you can also use external links here
 
 ---
 
