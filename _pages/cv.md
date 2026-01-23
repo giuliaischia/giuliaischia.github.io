@@ -23,19 +23,9 @@ Education
 * M.S. in Energy Engineering, 2018
 * B.S. in Energy Engineering, 2015
 
-Work experience
+Visiting research periods
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2025 Northeast Agricultural University, China
+* 2023 Tohoku University, Japan
+* 2021 Cornell University, USA
+* 2017 Boston University, USA 
