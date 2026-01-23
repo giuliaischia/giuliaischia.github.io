@@ -9,10 +9,8 @@ email: giulia.ischia@mpikg.mpg.de # your email address
 scholar_userid: vT6tvNEAAAAJ # your Google Scholar ID
 linkedin_username: giulia-ischia
 orcid_id: 0000-0001-5878-5603
-custom_social:
-  researchgate:
-    name: ResearchGate
-    url: https://www.researchgate.net/profile/Giulia-Ischia
-    icon: ai ai-researchgate
-# wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-# whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+#custom_social:
+ # researchgate:
+  #  name: ResearchGate
+   # url: https://www.researchgate.net/profile/Giulia-Ischia
+    #icon: ai ai-researchgate
