@@ -8,7 +8,9 @@ cv_pdf: /assets/pdf/CV.pdf # you can also use external links here
 
 ---
 
-Research Employment
+[Download my full CV](assets/pdf/CV.pdf)
+
+Research experience
 ======
 * 2024-now: Postdoctoral researcher at Max Planck Institute of Colloids and Interfaces, Germany 
   * Topic: Hydrothermal conversion of biomass into artificial humic substances.
