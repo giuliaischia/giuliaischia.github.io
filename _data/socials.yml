@@ -9,4 +9,8 @@ orcid_id: 0000-0001-5878-5603
 #linkedin_username: giulia-ischia
 cv_pdf: /assets/pdf/CV.pdf # path to your CV PDF file
 
-custom_social:
+custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
+  logo: /assets/img/RG_Logo.png
+  # can be png, svg, jpg
+  title: Research Gate
+  url: https://www.researchgate.net/profile/Giulia-Ischia?ev=hdr_xprf
