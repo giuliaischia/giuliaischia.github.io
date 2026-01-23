@@ -14,6 +14,7 @@ Research experience
 ======
 * 2024-now: Postdoctoral researcher at Max Planck Institute of Colloids and Interfaces, Germany 
   * Topic: Hydrothermal conversion of biomass into artificial humic substances.
+  * Supported by an [Alexander von Humboldt Fellowship](https://www.humboldt-foundation.de/en/connect/explore-the-humboldt-network/singleview/1238258/dr-giulia-ischia).
   * Supervisor: Prof. Dr. M. Antonietti.
 * 2022-2023: Postdoctoral researcher at University of Trento.
   * Topic: Hydrothermal conversion of biomass and bioplastic residues into carbon-based products.
@@ -27,7 +28,7 @@ Education
 
 Visiting research periods
 ======
-* 2025 Northeast Agricultural University, China
-* 2023 Tohoku University, Japan
-* 2021 Cornell University, USA
-* 2017 Boston University, USA 
+* 2025: Northeast Agricultural University, China
+* 2023: Tohoku University, Japan
+* 2021: Cornell University, USA
+* 2017: Boston University, USA 
