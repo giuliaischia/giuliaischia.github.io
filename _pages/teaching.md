@@ -1,15 +1,18 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Course materials, schedules, and resources for classes taught.
-nav: false
+permalink: /contact/
+title: Contact
+nav: true
 nav_order: 6
-calendar: true
+calendar: false
 ---
+You can reach me at **giulia.ischia@mpikg.mpg.de**.
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+**Address**:
+Office 2.112, Am Mühlenberg 1, 14476 Potsdam, Germany
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
-
-{% include courses.liquid %}
+**Online**:
+[Google Scholar](https://scholar.google.com/citations?user=TUO_ID) ·
+[ORCID](https://orcid.org/0000-0001-5878-5603) ·
+[LinkedIn](https://www.linkedin.com/in/giulia-ischia) ·
+[Website](https://giuliaischia.github.io)
