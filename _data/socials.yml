@@ -11,7 +11,7 @@ cv_pdf: /assets/pdf/CV.pdf # path to your CV PDF file
 
 custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
   logo: /assets/img/RG_Logo.png
-  title: Research Gate
+  title: ResearchGate
   url: https://www.researchgate.net/profile/Giulia-Ischia?ev=hdr_xprf
 
 custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
