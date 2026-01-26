@@ -7,7 +7,7 @@ nav_order: 6
 calendar: false
 ---
 
-I love to collaborate with people, especially especially bridging different disciplines and ideas. If you’d like to work together, just get in touch!
+I love to collaborate with people, especially when bridging different disciplines and ideas. If you’d like to work together, just get in touch!
 
 You can reach me at [giulia.ischia@mpikg.mpg.de](mailto:giulia.ischia@mpikg.mpg.de).
 
