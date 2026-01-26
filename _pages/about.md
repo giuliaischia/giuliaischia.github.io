@@ -31,7 +31,7 @@ latest_posts:
 
 I am a researcher working at the interface between green chemistry, chemical processes, and sustainable materials.
 
-I am passionate about valorizing **biomass** into **renewable bio-based products** that support circularity and help reduce reliance on fossil resources.
+I am passionate about **biomass** and **renewable bio-based products** that support circularity and help reduce reliance on fossil resources.
 To this end, my research focuses on **hydrothermal conversion processes** to valorize residual biomass into functional carbon products for applications in catalysis, energy technologies, environmental solutions, and soil systems.
 
 I am currently a postdoctoral researcher at the <a href="https://www.mpikg.mpg.de/person/132372/6826885" target="_blank">Max Planck Institute of Colloids and Interfaces</a>. Before moving to Germany, I was at the University of Trento in Italy, where I obtained my PhD in 2022.
