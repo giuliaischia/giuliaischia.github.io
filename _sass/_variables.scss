@@ -24,6 +24,17 @@ $pink-color: #f92080 !default;
 $pink-color-light: #ffdddd !default;
 $yellow-color: #efcc00 !default;
 
+// --- FORCE PINK AS MAIN ACCENT COLOR ---
+$primary-color: $pink-color !default;
+$link-color: $pink-color !default;
+$link-hover-color: color.adjust($pink-color, $lightness: -10%) !default;
+
+// Override default blue-based accents
+$blue-color: $pink-color !default;
+$blue-color-dark: color.adjust($pink-color, $lightness: -15%) !default;
+
+
+
 $grey-color: #828282 !default;
 $grey-color-light: color.adjust($grey-color, $lightness: 40%);
 $grey-color-dark: #1c1c1d;
