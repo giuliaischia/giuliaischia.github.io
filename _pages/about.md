@@ -40,8 +40,6 @@ I am always curious to explore new ideas, and I have been visiting researcher at
 
 My research is supported by an <a href="https://www.humboldt-foundation.de/vernetzen/recherche-im-humboldt-netzwerk/einzelansicht/1238258/dr-giulia-ischia" target="_blank">Alexander von Humboldt Fellowship</a>, and I previously received a Fulbright Fellowship.
 
-&nbsp;
-
 On this website, you can find an overview of my research and publications, covering topics such as:
 
 * Conversion of biomass into **functional carbon materials**, including carbon dots and nanoparticles, for applications in catalysis and energy technologies
