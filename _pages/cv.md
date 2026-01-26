@@ -19,7 +19,10 @@ Research experience
     
 Education
 ======  
-* Ph.D in Civil, Environmental and Mechanical Engineering (Major: Materials, Chemistry and Energy) from University of Trento, Italy
+* Ph.D in Civil, Environmental and Mechanical Engineering, from University of Trento, Italy
+  * Major: Materials, Chemistry and Energy
+  * Advisors: Prof. Luca Fiori and Prof. Antonio Miotello
+  * Thesis: [Sustainable conversion of biomass wastes via hydrothermal processes: fundamentals and technology](https://iris.unitn.it/handle/11572/340014), [PDF](/assets/pdf/phd-thesis.pdf)
 * M.S. in Energy Engineering, 2018, from University of Trento and Free University of Bolzano-Bozen, Italy
 * B.S. in Energy Engineering, 2015, from Politecnico di Torino, Italy
 
