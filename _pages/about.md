@@ -38,7 +38,7 @@ I am a researcher working at the interface between green chemistry, chemical pro
 I am passionate about **biomass** and **renewable bio-based products** that support circularity and help reduce reliance on fossil resources.
 To this end, my research focuses on hydrothermal conversion processes to valorize residual biomass into **functional carbon products**, with applications including catalysis, energy technologies, environmental solutions, and soil systems.
 
-I am currently a postdoctoral researcher at the <a href="https://www.mpikg.mpg.de/person/132372/6826885" target="_blank">Max Planck Institute of Colloids and Interfaces</a>. Before moving to Germany, I was at the University of Trento in Italy, where I obtained my PhD in 2022.
+Currently, I am a postdoc at the <a href="https://www.mpikg.mpg.de/person/132372/6826885" target="_blank">Max Planck Institute of Colloids and Interfaces</a>. Before moving to Germany, I was at the University of Trento in Italy, where I obtained my PhD in 2022.
 
 I am always curious to **explore new ideas**, and I have been visiting researcher at Cornell University (USA), Boston University (USA), Tohoku University (Japan), and Northeast Agricultural University (China).
 
