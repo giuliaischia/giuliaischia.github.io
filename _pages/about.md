@@ -50,3 +50,5 @@ On this website, you can find an overview of my research and publications, cover
 * Conversion of biomass into **artificial humic substances** for soil and environmental applications
 * Chemical pathways governing **hydrothermal and solvothermal conversion** of biomass
 * Integration of waste biomass valorization into **biorefinery** and **circular economy** frameworks
+
+&nbsp;
