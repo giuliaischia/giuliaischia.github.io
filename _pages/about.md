@@ -32,10 +32,17 @@ Hello!
 I am a researcher working at the interface between green chemistry, chemical processes, and sustainable materials.
 
 I am passionate about valorizing biomass into renewable bio-based products that support circularity and help reduce reliance on fossil resources.
-To this end, my research focuses on hydrothermal conversion processes to transform biomass into functional carbon products for applications in catalysis, energy technologies, environmental solutions, and soil systems.
+To this end, my research focuses on hydrothermal conversion processes to valorize biomass into functional carbon products for applications in catalysis, energy technologies, environmental solutions, and soil systems.
 
-I am currently at the <a href="https://www.mpikg.mpg.de/person/132372/6826885" target="_blank">Max Planck Institute of Colloids and Interfaces</a>. Before moving to Germany, I was at the University of Trento in Italy, where I obtained my PhD in 2022.
+I am currently a postdoctoral researcher at the <a href="https://www.mpikg.mpg.de/person/132372/6826885" target="_blank">Max Planck Institute of Colloids and Interfaces</a>. Before moving to Germany, I was at the University of Trento in Italy, where I obtained my PhD in 2022.
 
 I am always curious to explore new ideas, and I have been visiting researcher at Cornell University (USA), Boston University (USA), Tohoku University (Japan), and Northeast Agricultural University (China).
 
-My research is supported by an <a href="https://www.humboldt-foundation.de/vernetzen/recherche-im-humboldt-netzwerk/einzelansicht/1238258/dr-giulia-ischia" target="_blank">Alexander von Humboldt Fellowship</a>, and in the past I received a Fulbright Fellowship.
+My research is supported by an <a href="https://www.humboldt-foundation.de/vernetzen/recherche-im-humboldt-netzwerk/einzelansicht/1238258/dr-giulia-ischia" target="_blank">Alexander von Humboldt Fellowship</a>, and I previously received a Fulbright Fellowship.
+
+My main research directions include:
+
+* Conversion of biomass into functional carbon materials, including carbon dots and nanoparticles, for applications in catalysis and energy technologies
+* Conversion of biomass into artificial humic substances for soil and environmental applications
+* Chemical pathways governing hydrothermal and solvothermal conversion of biomass
+* Integration of biomass valorization into biorefinery and circular economy frameworks
