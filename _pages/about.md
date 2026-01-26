@@ -35,6 +35,6 @@ I am passionate about the valorization of biomass residues into high-value bio-b
 
 I am currently at the <a href="https://www.mpikg.mpg.de/person/132372/6826885" target="_blank">Max Planck Institute of Colloids and Interfaces</a>. Before moving to Germany, I was at the University of Trento in Italy, where I obtained my PhD in 2022.
 
-I am always curious to explore new ideas and places, and I have been visiting researcher in the US (Boston University and Cornell University), Japan (Tohoku University), and China (Northeast Agricultural University).
+I am always curious to explore new ideas, and I have been visiting researcher at Cornell University (USA), Boston University (USA), Tohoku University (Japan), and Northeast Agricultural University (China).
 
 My research is supported by an <a href="https://www.humboldt-foundation.de/vernetzen/recherche-im-humboldt-netzwerk/einzelansicht/1238258/dr-giulia-ischia" target="_blank">Alexander von Humboldt Fellowship</a>, and in the past I received a Fulbright Fellowship.
