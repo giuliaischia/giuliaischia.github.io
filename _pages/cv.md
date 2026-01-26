@@ -11,17 +11,17 @@ nav_order: 5
 
 Research experience
 ======
-* 2024-now: Postdoctoral researcher at Max Planck Institute of Colloids and Interfaces, Germany 
+* 2024-now: Postdoctoral researcher, Max Planck Institute of Colloids and Interfaces, Germany 
   * Topic: Hydrothermal conversion of biomass into artificial humic substances.
   * Supported by an [Alexander von Humboldt Fellowship](https://www.humboldt-foundation.de/en/connect/explore-the-humboldt-network/singleview/1238258/dr-giulia-ischia).
-* 2022-2023: Postdoctoral researcher at University of Trento.
+* 2022-2023: Postdoctoral researcher, University of Trento, Italy
   * Topic: Hydrothermal conversion of biomass and bioplastic residues into carbon-based products.
     
 Education
 ======  
-* Ph.D in Civil, Environmental and Mechanical Engineering (Major: Materials, Chemistry and Energy) from University of Trento
-* M.S. in Energy Engineering, 2018, from University of Trento and Free University of Bolzano-Bozen
-* B.S. in Energy Engineering, 2015, from Politecnico di Torino
+* Ph.D in Civil, Environmental and Mechanical Engineering (Major: Materials, Chemistry and Energy) from University of Trento, Italy
+* M.S. in Energy Engineering, 2018, from University of Trento and Free University of Bolzano-Bozen, Italy
+* B.S. in Energy Engineering, 2015, from Politecnico di Torino, Italy
 
 Visiting research periods
 ======
