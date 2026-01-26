@@ -8,13 +8,3 @@ scholar_userid: vT6tvNEAAAAJ # your Google Scholar ID
 orcid_id: 0000-0001-5878-5603
 #linkedin_username: giulia-ischia
 cv_pdf: /assets/pdf/CV.pdf # path to your CV PDF file
-
-custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: /assets/img/RG_Logo.png
-  title: ResearchGate
-  url: https://www.researchgate.net/profile/Giulia-Ischia?ev=hdr_xprf
-
-custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: /assets/img/linkedin_logo.png
-  title: LinkedIn
-  url: www.linkedin.com/in/giulia-ischia
