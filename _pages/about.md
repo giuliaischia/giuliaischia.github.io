@@ -33,7 +33,7 @@ I am a researcher at the <a href="https://www.mpikg.mpg.de/person/132372/6826885
 
 I am passionate about valorizing biomass and waste into sustainable bio-based products within a circular economy framework. In particular, my research focuses on hydrothermal conversion of biomass to produce functional carbon materials that can be used for various applications, including catalysis, energy, environmental technologies, and soil-related systems.
 
-Before moving to Germany, I was at the University of Trento in Italy, where I obtained my PhD in 2022.
+Before moving to Germany, I was at the University of Trento in Italy, where I obtained my PhD in May 2022.
 
 I am always curious to explore new ideas and places, and I have been visiting researcher in the US (Boston University and Cornell University), Japan (Tohoku University), and China (Northeast Agricultural University).
 
