@@ -461,11 +461,11 @@ ninja.data = [{
           window.open("mailto:%67%69%75%6C%69%61.%69%73%63%68%69%61@%6D%70%69%6B%67.%6D%70%67.%64%65", "_blank");
         },
       },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=vT6tvNEAAAAJ", "_blank");
+          window.open("https://www.linkedin.com/in/giulia-ischia", "_blank");
         },
       },{
         id: 'social-orcid',
@@ -475,11 +475,25 @@ ninja.data = [{
           window.open("https://orcid.org/0000-0001-5878-5603", "_blank");
         },
       },{
-        id: 'social-cv',
-        title: 'CV',
+        id: 'social-scopus',
+        title: 'Scopus',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/CV.pdf", "_blank");
+          window.open("https://www.scopus.com/authid/detail.uri?authorId=57213170593", "_blank");
+        },
+      },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/Giulia-Ischia/", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=vT6tvNEAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
