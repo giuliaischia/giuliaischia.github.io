@@ -31,7 +31,7 @@ Hello!
 
 I am a researcher at the <a href="https://www.mpikg.mpg.de/person/132372/6826885" target="_blank">Max Planck Institute of Colloids and Interfaces</a>, working at the interface between green chemistry, chemical processes, and sustainable materials.
 
-I am passionate about valorizing biomass and waste into sustainable bio-based products within a circular economy framework. In particular, my research focuses on hydrothermal conversion of biomass to produce functional carbon materials that can be used for various applications, including catalysis, energy, environmental technologies, and soil systems.
+I am passionate about valorizing biomass and waste into sustainable bio-based products within a circular economy framework. In particular, my research focuses on hydrothermal conversion of biomass to produce functional carbon materials that can be used for various applications, including catalysis, energy, environmental technologies, and soil-related systems.
 
 Before moving to Germany, I was at the University of Trento in Italy, where I obtained my PhD in 2022.
 
