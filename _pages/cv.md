@@ -19,9 +19,9 @@ Research experience
     
 Education
 ======  
-* Ph.D in Civil, Environmental and Mechanical Engineering (Major: Materials, Chemistry and Energy)
-* M.S. in Energy Engineering, 2018
-* B.S. in Energy Engineering, 2015
+* Ph.D in Civil, Environmental and Mechanical Engineering (Major: Materials, Chemistry and Energy) from University of Trento
+* M.S. in Energy Engineering, 2018, from University of Trento and Free University of Bolzano-Bozen
+* B.S. in Energy Engineering, 2015, from Politecnico di Torino
 
 Visiting research periods
 ======
