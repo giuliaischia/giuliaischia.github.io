@@ -1,10 +1,13 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-email: giulia.ischia@mpikg.mpg.de # your email address
 # inspirehep_id: 1010907 # Inspire HEP author ID
 # rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: vT6tvNEAAAAJ # your Google Scholar ID
+email: giulia.ischia@mpikg.mpg.de # your email address
+linkedin_username: giulia-ischia
 orcid_id: 0000-0001-5878-5603
-#linkedin_username: giulia-ischia
-cv_pdf: /assets/pdf/CV.pdf # path to your CV PDF file
+scopus_id: 57213170593
+research_gate_profile: Giulia-Ischia
+scholar_userid: vT6tvNEAAAAJ # your Google Scholar ID
+
+#cv_pdf: /assets/pdf/CV.pdf # path to your CV PDF file
