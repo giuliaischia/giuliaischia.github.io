@@ -25,14 +25,13 @@ $pink-color-light: #ffdddd !default;
 $yellow-color: #efcc00 !default;
 
 // --- FORCE PINK AS MAIN ACCENT COLOR ---
-$primary-color: $pink-color !default;
-$link-color: $pink-color !default;
-$link-hover-color: color.adjust($pink-color, $lightness: -10%) !default;
+$blue-color: $pink-color;
+$blue-color-dark: color.adjust($pink-color, $lightness: -15%);
 
-// Override default blue-based accents
-$blue-color: $pink-color !default;
-$blue-color-dark: color.adjust($pink-color, $lightness: -15%) !default;
-
+// se il tema usa queste:
+$link-color: $pink-color;
+$link-hover-color: color.adjust($pink-color, $lightness: -10%);
+$primary-color: $pink-color;
 
 
 $grey-color: #828282 !default;
