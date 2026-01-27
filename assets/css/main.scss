@@ -25,6 +25,6 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss"
 ;
 
-.profile {
-  border: 5px solid red !important;
+.profile.float-right {
+  margin-top: 4rem !important;
 }
