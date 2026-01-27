@@ -48,7 +48,7 @@ On this website, you can find an overview of my research and publications, cover
 
 * Conversion of biomass into **functional carbon materials**, including carbon dots and nanoparticles, for applications in catalysis and energy technologies
 * Conversion of biomass into **artificial humic substances** for soil and environmental applications
-* Chemical pathways governing **hydrothermal and solvothermal conversion** of biomass
+* Chemical pathways behind the **hydrothermal and solvothermal conversion** of biomass
 * Integration of waste biomass valorization into **biorefinery** and **circular economy** frameworks
 
 &nbsp;
