@@ -33,7 +33,7 @@ latest_posts:
 
 I am a researcher working at the interface between **green chemistry**, **chemical engineering**, and **sustainable materials**.
 
-I am passionate about **biomass** as a renewable platform for sustainable and **circular** alternatives to fossil resources.
+I am passionate about **biomass** as a renewable platform for replacing fossil resources with sustainable and circular solutions.
 In particular, I study **hydrothermal processes** to convert biomass into bio-based products with applications including catalysis, energy technologies, environmental solutions, and soil systems.
 
 I am based at the <a href="https://www.mpikg.mpg.de/person/132372/6826885" target="_blank">Max Planck Institute of Colloids and Interfaces</a>, where I work as a postdoc. I obtained my PhD at the University of Trento in Italy in 2022.
