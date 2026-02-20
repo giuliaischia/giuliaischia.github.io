@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-01-28'
+  last_updated: '2026-02-20'
 papers:
   vT6tvNEAAAAJ:2osOgNQ5qMEC:
-    citations: 58
+    citations: 59
     title: Valorizing Municipal Solid Waste via Integrating Hydrothermal Carbonization and Downstream Extraction for Biofuel Production
     year: '2021'
   vT6tvNEAAAAJ:5nxA0vEk-isC:
@@ -10,15 +10,15 @@ papers:
     title: Tailoring the extraction process and properties of polysaccharides from the lichen Evernia prunastri using natural eutectic solvents following a biorefinery approach
     year: '2025'
   vT6tvNEAAAAJ:8k81kl-MbHgC:
-    citations: 8
+    citations: 9
     title: 'Hydrothermal carbonization of organic waste and biomass: a review on process, reactor, and plant modeling. Waste Biomass Valoriz.(2020)'
     year: '2021'
   vT6tvNEAAAAJ:9yKSN-GCB0IC:
-    citations: 241
+    citations: 249
     title: 'Hydrothermal carbonization of organic waste and biomass: a review on process, reactor, and plant modeling'
     year: '2021'
   vT6tvNEAAAAJ:IjCSPb-OGe4C:
-    citations: 184
+    citations: 193
     title: 'Hydrothermal carbonization of glucose: Secondary char properties, reaction pathways, and kinetics'
     year: '2022'
   vT6tvNEAAAAJ:KlAtU1dfN6UC:
@@ -26,15 +26,19 @@ papers:
     title: Valorization of lignin into carbon spheres, carbon dots, and graphene-like layers via hydrothermal conversion
     year: '2025'
   vT6tvNEAAAAJ:LkGwnXOMwfcC:
-    citations: 17
+    citations: 19
     title: Identifying the transition from hydrothermal carbonization to liquefaction of biomass in a batch system
     year: '2024'
   vT6tvNEAAAAJ:Se3iqnhoufwC:
-    citations: 9
+    citations: 8
     title: 'Cellulose Acetates in Hydrothermal Carbonization: a Green Pathway to Valorize Residual Bioplastics'
     year: '2024'
+  vT6tvNEAAAAJ:ULOm3_A8WrAC:
+    citations: 0
+    title: 'Progress and challenges in thermochemical technologies for biomass humification: A comprehensive review'
+    year: '2026'
   vT6tvNEAAAAJ:UeHWp8X0CEIC:
-    citations: 20
+    citations: 21
     title: Thermal analysis and kinetic modeling of pyrolysis and oxidation of hydrochars
     year: '2022'
   vT6tvNEAAAAJ:UebtZRa9Y70C:
@@ -42,15 +46,15 @@ papers:
     title: "Controllable production of bio-oils and nano carbons by hydrothermal reaction of biomass-combining pulp&paper industry, waste treatment industry and chemical industry toward \u2026"
     year: '2024'
   vT6tvNEAAAAJ:W7OEmFMy1HYC:
-    citations: 6
-    title: Hydrothermal Carbonization as a Process to Facilitate the Disposal of Bioplastics
+    citations: 5
+    title: Hydrothermal carbonization as a process to facilitate the disposal of bioplastics
     year: '2023'
   vT6tvNEAAAAJ:WF5omc3nYNoC:
     citations: 3
     title: Advancing bioenergy for a green future
     year: '2023'
   vT6tvNEAAAAJ:Y0pCki6q_DkC:
-    citations: 6
+    citations: 7
     title: 'Carbon nanoparticles as absorbers in PVC for laser ablation propulsion: size effects'
     year: '2023'
   vT6tvNEAAAAJ:YsMSGLbcyi4C:
@@ -66,7 +70,7 @@ papers:
     title: 'Waste to Biofuels through Zero-Energy Hydrothermal Solar Plants: Process Design'
     year: '2020'
   vT6tvNEAAAAJ:eQOLeE2rZwMC:
-    citations: 31
+    citations: 33
     title: Green solvents to enhance hydrochar quality and clarify effects of secondary char
     year: '2023'
   vT6tvNEAAAAJ:hqOjcs7Dif8C:
@@ -74,7 +78,7 @@ papers:
     title: From Lignin to Green Nanocarbons Via Hydrothermal Conversion
     year: Unknown Year
   vT6tvNEAAAAJ:kNdYIx-mwKoC:
-    citations: 3
+    citations: 6
     title: Transitioning from hydrothermal carbonization to humification for producing artificial humic substances
     year: '2025'
   vT6tvNEAAAAJ:qjMakFHDy7sC:
@@ -82,11 +86,11 @@ papers:
     title: 'Exothermicity of hydrothermal carbonization: Determination of heat profile and enthalpy of reaction via high-pressure differential scanning calorimetry'
     year: '2022'
   vT6tvNEAAAAJ:roLk4NBRz8UC:
-    citations: 42
+    citations: 47
     title: 'Advances in research and technology of hydrothermal carbonization: achievements and future directions'
     year: '2024'
   vT6tvNEAAAAJ:u-x6o8ySG0sC:
-    citations: 40
+    citations: 41
     title: 'Realization of a solar hydrothermal carbonization reactor: A zero-energy technology for waste biomass valorization'
     year: '2020'
   vT6tvNEAAAAJ:u5HHmVD_uO8C:
