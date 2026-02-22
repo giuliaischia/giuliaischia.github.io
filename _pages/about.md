@@ -45,7 +45,7 @@ My research is currently supported by an <a href="https://www.humboldt-foundatio
 On this website, you can find an overview of my research and publications, covering topics such as:
 
 * Conversion of biomass into **functional carbon materials**, including carbon dots and nanoparticles, for applications in catalysis and energy technologies
-* Conversion of biomass into **artificial humic substances** for soil and environmental applications
+* Conversion of biomass into **artificial humic substances** for environmental applications
 * Chemical pathways behind the **hydrothermal and solvothermal conversion** of biomass
 * Integration of waste biomass valorization into **biorefinery** and **circular economy** frameworks
 
