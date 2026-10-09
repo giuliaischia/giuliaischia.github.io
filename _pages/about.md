@@ -36,7 +36,7 @@ I am a researcher working at the interface between **green chemistry**, **chemic
 I am passionate about **biomass** as a renewable platform for replacing fossil resources with sustainable and circular solutions.
 In particular, I study **hydrothermal processes** to convert biomass into bio-based products with applications in catalysis, energy technologies, and environmental applications.
 
-I am currently a postdoctoral researcher at [**Ircelyon (CNRS, University of Lyon 1)**](https://www.ircelyon.univ-lyon1.fr/en/syrcel-en/card/GLS/) in France, where I investigate the **valorization of lignin into sustainable catalysts**. My research project is supported by the **Make Our Planet Great Again (MOPGA) fellowship**.
+I am currently a postdoctoral researcher at [**Ircelyon (CNRS, University of Lyon 1)**](https://www.ircelyon.univ-lyon1.fr/en/syrcel-en/card/GLS/) in France, where I investigate the **valorization of lignin into sustainable catalysts**. My research is supported by the **Make Our Planet Great Again (MOPGA) fellowship**.
 
 Before arriving to France, I worked at the **Max Planck Institute of Colloids and Interfaces** in Germany, where I led research on converting biomass into **artificial humic substances** for environmental applications, with support from the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/vernetzen/recherche-im-humboldt-netzwerk/einzelansicht/1238258/dr-giulia-ischia).
 
