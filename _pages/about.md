@@ -34,13 +34,13 @@ latest_posts:
 I am a researcher working at the interface between **green chemistry**, **chemical engineering**, and **sustainable materials**.
 
 I am passionate about **biomass** as a renewable platform for replacing fossil resources with sustainable and circular solutions.
-In particular, I study **hydrothermal processes** to convert biomass into bio-based products with applications including catalysis, energy technologies, environmental solutions, and soil systems.
+In particular, I study **hydrothermal processes** to convert biomass into bio-based products with applications in catalysis, energy technologies, and environmental applications.
 
-I am based at the <a href="https://www.mpikg.mpg.de/person/132372/6826885" target="_blank">Max Planck Institute of Colloids and Interfaces</a>, where I work as a postdoc. I obtained my PhD at the University of Trento in Italy in 2022.
+I am currently a postdoctoral researcher at [IRCELYON-CNRS (Institut de recherches sur la catalyse et l'environnement de Lyon)](https://www.ircelyon.univ-lyon1.fr/en/syrcel-en/card/GLS/) in France, where I investigate the valorization of lignin into sustainable catalysts. My research project is supported by the **Make Our Planet Great Again (MOPGA) fellowship**.
 
-I am always curious to **explore new ideas**, and I have been a visiting researcher at Cornell University (USA), Boston University (USA), Tohoku University (Japan), and Northeast Agricultural University (China).
+Before arriving to France, I worked at the Max Planck Institute of Colloids and Interfaces in Germany, where I led research on converting biomass into artificial humic substances for environmental applications, with support from the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/vernetzen/recherche-im-humboldt-netzwerk/einzelansicht/1238258/dr-giulia-ischia).
 
-My research is currently supported by an <a href="https://www.humboldt-foundation.de/vernetzen/recherche-im-humboldt-netzwerk/einzelansicht/1238258/dr-giulia-ischia" target="_blank">Alexander von Humboldt Fellowship</a>, and I previously received a Fulbright Fellowship.
+I obtained my PhD at the University of Trento in Italy in 2022, specializing in hydrothermal conversion of biomass. I have been a visiting researcher at Cornell University (USA), Boston University (USA), Tohoku University (Japan), and Northeast Agricultural University (China).
 
 On this website, you can find an overview of my research and publications, covering topics such as:
 
