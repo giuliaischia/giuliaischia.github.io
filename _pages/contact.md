@@ -9,10 +9,10 @@ calendar: false
 
 I love to collaborate with people, especially when bridging different disciplines and ideas. If you’d like to work together, just write me!
 
-You can reach me at [giulia.ischia@mpikg.mpg.de](mailto:giulia.ischia@mpikg.mpg.de).
+You can reach me at [my e-mail](mailto:giulia.ischia@ircelyon.univ-lyon1.fr).
 
 **Address**:
-Office 2.112, Am Mühlenberg 1, 14476 Potsdam, Germany
+Office P-328,  2 Av. Albert Einstein, 69626 Villeurbanne, France.
 
 **Online**:
 [Google Scholar](https://scholar.google.com/citations?user=TUO_ID) ·
