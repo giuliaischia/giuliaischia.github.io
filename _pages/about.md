@@ -35,7 +35,7 @@ I am a scientist passionate about tackling climate challenges, doing research at
 
 I have an interdisciplinary background in energy engineering and materials science, I am fascinated by the world of **biomass**. My research explores how it can be valorized into carbon-based products through sustainable processes for applications in energy and environmental technologies.
 
-I am currently a postdoctoral researcher in France, at [Ircelyon (CNRS, University of Lyon 1)](https://www.ircelyon.univ-lyon1.fr/en/syrcel-en/card/GLS/), where I investigate the **valorization of lignin into sustainable catalysts**. My research is supported by the Make Our Planet Great Again (MOPGA) fellowship.
+I am currently a postdoctoral researcher in France, at [Ircelyon (CNRS, University of Lyon 1)](https://www.ircelyon.univ-lyon1.fr/en/syrcel-en/card/GLS/), where I investigate the **valorization of lignin into sustainable catalysts**. My research is supported by the [Make Our Planet Great Again (MOPGA) fellowship](https://www.campusfrance.org/en/mopga-2026).
 
 Before, I was at the Max Planck Institute of Colloids and Interfaces in Germany, where I led research on converting biomass into **artificial humic substances** supported by the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/vernetzen/recherche-im-humboldt-netzwerk/einzelansicht/1238258/dr-giulia-ischia).
 
