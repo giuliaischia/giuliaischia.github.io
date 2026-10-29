@@ -11,10 +11,13 @@ You can download my full CV [here](/assets/pdf/CV.pdf).
 
 Research experience
 ======
-* 2024-now: Postdoctoral researcher, Max Planck Institute of Colloids and Interfaces, Germany 
+* 2026-now: Postdoctoral Researcher,Ircelyon (CNRS, Institut de recherches sur la catalyse et l’environnement), France 
+  * Topic: Valorization of lignin into sustainable catalysts.
+  * Supported by [Make Our Planet Great Again (MOPGA) fellowship](https://www.campusfrance.org/en/mopga-2026)
+* 2024-2026: Postdoctoral Researcher, Max Planck Institute of Colloids and Interfaces, Germany 
   * Topic: Hydrothermal conversion of biomass into artificial humic substances.
   * Supported by an [Alexander von Humboldt Fellowship](https://www.humboldt-foundation.de/en/connect/explore-the-humboldt-network/singleview/1238258/dr-giulia-ischia)
-* 2022-2023: Postdoctoral researcher, University of Trento, Italy
+* 2022-2023: Postdoctoral Researcher, University of Trento, Italy
   * Topic: Hydrothermal conversion of biomass and bioplastic residues into carbon-based products
     
 Education
@@ -35,6 +38,7 @@ Visiting research periods
 
 Awards and fellowships
 ======
+* 2026: [Make Our Planet Great Again (MOPGA) fellowship](https://www.campusfrance.org/en/mopga-2026)
 * 2024: [Alexander von Humboldt Foundation Research Fellowship](https://www.humboldt-foundation.de/en/connect/explore-the-humboldt-network/singleview/1238258/dr-giulia-ischia)
 * 2023: ACS Sustainability Star, from American Chemical Society (ACS)
 * 2023: International Researcher Visiting Fellowship, from Tohoku University 
