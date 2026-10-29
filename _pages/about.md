@@ -33,15 +33,15 @@ latest_posts:
 
 I am a scientist passionate about tackling climate challenges, doing research at the interface between **green chemistry**, **chemical engineering**, and **sustainable materials**.
 
-I have an interdisciplinary background in energy engineering and materials science, I am fascinated by the world of **biomass**. My research explores how it can be valorized into carbon-based products through sustainable processes for applications in energy and environmental technologies.
+I'm fascinated by the world of **biomass**! My research is about investigating how biomass can be converted into bio-based products (carbon materials and chemicals, for instance) for applications in the area of climate change. That covers energy as well as environmental applications, like water and soil remediation.
 
 I am currently a postdoctoral researcher in France, at [Ircelyon (CNRS, University of Lyon 1)](https://www.ircelyon.univ-lyon1.fr/en/syrcel-en/card/GLS/), where I investigate the **valorization of lignin into sustainable catalysts**. My research is supported by the [Make Our Planet Great Again (MOPGA) fellowship](https://www.campusfrance.org/en/mopga-2026).
 
 Before, I was at the Max Planck Institute of Colloids and Interfaces in Germany, where I led research on converting biomass into **artificial humic substances** supported by the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/vernetzen/recherche-im-humboldt-netzwerk/einzelansicht/1238258/dr-giulia-ischia).
 
-I obtained my PhD at the University of Trento in Italy in 2022, specializing in **hydrothermal conversion of biomass**. 
+I am always curious to **explore new ideas**! Through the years, I have been a visiting researcher at Cornell University (USA), with a Fulbright fellowship, Boston University (USA), Tohoku University (Japan), and Northeast Agricultural University (China).
 
-I am always curious to **explore new ideas**! I have been a visiting researcher at Cornell University (USA), Boston University (USA), Tohoku University (Japan), and Northeast Agricultural University (China).
+I obtained my PhD in Chemical Engineering at the University of Trento in Italy in 2022, specializing in **hydrothermal conversion of biomass,** while I have a background in energy engineering. 
 
 On this website, you can find an overview of my research and publications, covering topics such as:
 
