@@ -39,9 +39,9 @@ I am currently a postdoctoral researcher in France, at [Ircelyon (CNRS, Universi
 
 Before, I was at the Max Planck Institute of Colloids and Interfaces in Germany, where I led research on converting biomass into **artificial humic substances** supported by the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/vernetzen/recherche-im-humboldt-netzwerk/einzelansicht/1238258/dr-giulia-ischia).
 
-I am always curious to **explore new ideas**! Through the years, I have been a visiting researcher at Cornell University (USA), with a Fulbright fellowship, Boston University (USA), Tohoku University (Japan), and Northeast Agricultural University (China).
+I obtained my PhD in Chemical Engineering at the University of Trento (Italy) in 2022, specializing in **hydrothermal conversion of biomass,** while I have a background in energy engineering. 
 
-I obtained my PhD in Chemical Engineering at the University of Trento in Italy in 2022, specializing in **hydrothermal conversion of biomass,** while I have a background in energy engineering. 
+I'm always curious to **explore new ideas**! Over the years, I have had the beautiful chance of being a visiting researcher in the USA (Boston University and Cornell University, supported by a Fulbright fellowship), Japan (Tohoku University), and China (Northeast Agricultural University).
 
 On this website, you can find an overview of my research and publications, covering topics such as:
 
