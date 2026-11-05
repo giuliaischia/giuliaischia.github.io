@@ -7,7 +7,7 @@ nav_order: 5
 
 ---
 
-You can download my full CV [here](/assets/pdf/CV.pdf).
+You can download my full CV [here](/assets/pdf/Website-CV.pdf).
 
 Research experience
 ======
